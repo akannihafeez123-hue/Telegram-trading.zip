@@ -1,0 +1,6 @@
+python-telegram-bot==20.6
+ccxt==4.2.2
+pandas
+numpy
+requests
+aiohttp
