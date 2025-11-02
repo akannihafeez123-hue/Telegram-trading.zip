@@ -1,0 +1,6 @@
+requests
+numpy
+pandas
+yfinance
+Flask
+gunicorn
